@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1509394423 source:c:\users\aninp\desktop\tdma_node\main.cpp
+	<iostream>
+
+1509394423 
+
+1510875361 source:/home/ani/Desktop/TDMA_node/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<string>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<pthread.h>
+	<ctime>
+	<cstdlib>
+	<time.h>
+

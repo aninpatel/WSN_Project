@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510874754 source:/home/ani/Desktop/application_node/main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<string>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+
